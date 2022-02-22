@@ -1,2 +1,3 @@
 # react-ekart
-Ecommerce application in react
+
+E-Commerce application in react
